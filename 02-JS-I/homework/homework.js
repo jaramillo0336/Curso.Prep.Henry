@@ -262,7 +262,7 @@ function obtenerAreaRectangulo(alto, ancho) {
 function retornarPerimetro(lado){
   //Escibe una función a la cual reciba el valor del lado de un cuadrado y retorne su perímetro.
   //Escribe tu código aquí
-  let perimetro= lado*4; //declaramos la variable local 'perimetro' y le asignamos el cálculo correspondiente dado el argumento que se pasó en la función 'lado'
+  let perimetro= ladonpm test JSI.test.js*4; //declaramos la variable local 'perimetro' y le asignamos el cálculo correspondiente dado el argumento que se pasó en la función 'lado'
   return(perimetro); //devolvemos el resultado requerido
   
 }
