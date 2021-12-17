@@ -144,7 +144,7 @@ function esImpar(num) {
   if(num%2 !=0){ //evaluamos si el resto de la división entre el argumento 'num' y 2 es diferente de 0
     return(true); // de ser cierto, retornamos 'true' - es decir, el número es impar
   }else{
-    return(false); // de lo contrario, retornamos 'false - es decir, el número es par
+    return(false); // de lo contrario, retornamos 'false - es decir, el número es par;
   }
   
 }
